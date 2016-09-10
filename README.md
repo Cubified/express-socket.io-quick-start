@@ -1,2 +1,2 @@
-# express-socket.io-quick-start
-A simple Express &amp; Socket.io quick-start app.
+# socket.io-quick-start
+A simple Socket.io quick-start app.
