@@ -1,0 +1,28 @@
+{
+  "name": "socket.io-quick-start",
+  "version": "1.0.0",
+  "description": "A simple Socket.io quick-start app.",
+  "main": "server/server.js",
+  "scripts": {
+    "start": "node server/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cubified/socket.io-quick-start.git"
+  },
+  "keywords": [
+    "Socket.io",
+    "Node",
+    "quick",
+    "start"
+  ],
+  "author": "Cubified",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Cubified/socket.io-quick-start/issues"
+  },
+  "homepage": "https://github.com/Cubified/socket.io-quick-start#readme",
+  "dependencies": {
+    "socket.io": "^1.4.8"
+  }
+}
