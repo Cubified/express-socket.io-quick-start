@@ -6,3 +6,4 @@ A simple Socket.io quick-start app.
 2. cd "socket.io-quick-start"
 3. npm install
 4. npm start
+5. http://localhost:80
